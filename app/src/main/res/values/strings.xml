@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">inzi booking</string>
+
+
+    <string name="hotel_app">Hotel App</string>
+    <string name="cart">Cart</string>
+</resources>
