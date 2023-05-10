@@ -1,2 +1,0 @@
-# Hotel Booking & Recommendations
-
